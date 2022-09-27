@@ -1,8 +1,8 @@
 <script setup>
-import Header from "./components/Header.vue";
+import FileUploader from "./components/FileUploader.vue";
 </script>
 
 <template>
-  <Header></Header>
+  <FileUploader></FileUploader>
 </template>
 
